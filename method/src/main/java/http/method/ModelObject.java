@@ -1,4 +1,4 @@
-package http.method.requestMapping;
+package http.method;
 
 import lombok.Data;
 
